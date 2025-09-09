@@ -10,4 +10,4 @@ Tap on "Generate" and select your desired language, length, and themes.
 Yes! You can paste articles, blogs, or Wikipedia texts to generate lessons from them.  
 
 ## Contact
-📩 Email: support@inputmaximizer.com
+📩 Email: robinfederico636@gmail.com
